@@ -1,4 +1,3 @@
-<img align="right" alt="coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
 <h1 align="center">Hi there, I'm Zebiba Ibrahim 👋</h1>
 
@@ -7,6 +6,9 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=frezedd&label=Profile%20views&color=0e75b6&style=flat" alt="frezedd" />
 </p>
+
+<img align="right" alt="coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
+
 
 ### About Me
 - 💼 Senior Software Engineer with over 6 years of experience specializing in full-stack web development (MERN Stack).
