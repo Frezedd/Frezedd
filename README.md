@@ -1,4 +1,4 @@
-
+<img align="right" alt="coding" width="400" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
 <h1 align="center">Hi there, I'm Zebiba Ibrahim 👋</h1>
 
