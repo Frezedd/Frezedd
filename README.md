@@ -11,7 +11,7 @@
 
 
 ### About Me
-- 💼 Senior Software Engineer with over 6 years of experience specializing in full-stack web development (MERN Stack).
+- 💼 Senior Software Engineer with over 5 years of experience specializing in full-stack web development (MERN Stack).
 - 🌱 Currently focused on honing skills in React, Node.js, Express.js, MongoDB, and MySQL.
 - 🚀 Passionate about building scalable applications, implementing best practices in software development, and leveraging agile methodologies.
 - 🤝 Open to collaborating on innovative projects that push the boundaries of technology.
